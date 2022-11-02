@@ -1,1 +1,0 @@
-# brain_tumour_PINN
