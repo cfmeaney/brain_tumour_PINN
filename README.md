@@ -1,7 +1,6 @@
 This repo contains representative code from our publication:
 
 Deep Learning Characterization of Brain Tumours With Diffusion Weighted Imaging. C. Meaney, S. Das, E. Colak, M. Kohandel. Journal of Theoretical Biology.
-ISNERT LINK
 
 The code is easily adaptable, and more details can be found in the accompanying publication.
 
