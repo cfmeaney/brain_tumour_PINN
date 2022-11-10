@@ -1,6 +1,6 @@
 This repo contains representative code from our publication:
 
-Deep Learning Characterization of Brain Tumours With Diffusion Weighted Imaging. C. Meaney, S. Das, E. Colak, M. Kohandel. Journal of Theoretical Biology.
+Deep Learning Characterization of Brain Tumours With Diffusion Weighted Imaging. C. Meaney, S. Das, E. Colak, M. Kohandel. Journal of Theoretical Biology. https://doi.org/10.1016/j.jtbi.2022.111342
 
 The code is easily adaptable, and more details can be found in the accompanying publication.
 
